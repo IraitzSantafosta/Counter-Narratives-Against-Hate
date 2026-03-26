@@ -1,5 +1,5 @@
 # Counter-Narratives-Against-Hate
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/NOMBRE_DEL_REPO/blob/main/NOMBRE_DEL_ARCHIVO.ipynb)
 Counter-Narratives Against Hate (CNAH)
 Deskribapena
 Gorroto diskurtsoaren ugaritzeak, espazio digital eta fisikoetan, arrisku handiak dakartza kohesio sozialerako eta banakoen ongizaterako. Gorroto diskurtsoari aurre egiteko modu tradizionalak, hala nola gorrotodun edukiak kentzea edo erabiltzaileak blokeatzea, ez dira eraginkorrak eta zentsura-pertzepzioak sortzeko arriskua dute. Kontra-narratibak sortzea estrategia itxaropentsu gisa agertu da, gorroto diskurtsoari modu arrazoituan aurre egitea eta enpatia eta ulermena sustatzea helburu duela.
